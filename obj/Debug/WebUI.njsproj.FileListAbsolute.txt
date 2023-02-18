@@ -1,0 +1,3 @@
+C:\Users\gynat\source\repos\Thesis\WebUI\obj\Debug\WebUI.njsproj.AssemblyReference.cache
+C:\Users\gynat\source\repos\Thesis\WebUI\obj\Debug\WebUI.njsproj.CoreCompileInputs.cache
+C:\Users\gynat\source\repos\Thesis\WebUI\bin\Microsoft.NodejsTools.WebRole.dll
